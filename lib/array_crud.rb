@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  video_games = ["nintendo"]
+  video_games = ["nintendo", "playstation", "microsoft"]
+  video_games >> 
 end
 
 def add_element_to_start_of_array(array, element)
